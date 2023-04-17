@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
   Un blog qui a vraiment besoin de contenu.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://bdosse-jovian.github.io/pages"
+url: "https://bdosse.github.io/pages"
 
 github:
   username: bdosse-jovian # change to your github username
